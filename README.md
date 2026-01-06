@@ -10,7 +10,7 @@ There are three parts in the course: CS, EE and final project
 **Midterm Exam**: Computer-based exam, accounting for 35% of the final grade. (Students are allowed to bring an A4-size cheatsheet)
 
 ### EE part: Electronic Engineering 
-**Instructor**: Xing Lou
+**Instructor**: Xin Lou
 
 ## Grading Policy
 - CS part: 50% (Midterm Exam 35% + Homework 15%)
