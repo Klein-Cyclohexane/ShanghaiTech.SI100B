@@ -1,0 +1,20 @@
+#logisim
+logisim-evolution-3.8.0-x86.msi
+
+#Assembler
+*.txt
+
+#miniCPU
+ComputerArchitecture.pdf
+
+#latex compiled files
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+*.log
+report.synctex.gz
+
+#python
+__pycache__/
+*.pyc
