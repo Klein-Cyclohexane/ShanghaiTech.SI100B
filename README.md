@@ -17,3 +17,7 @@ There are three parts in the course: CS, EE and final project
 - EE part: 20%
 - Final Project: 25%
 - Class Participation and Quiz: 5%  ~~(实际并没有这一项)~~
+
+<div align="right">
+    <img src="./README.assets/signature.gif" alt="signature" width="160" style="height:auto;">
+</div>
